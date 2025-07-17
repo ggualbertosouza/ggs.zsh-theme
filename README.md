@@ -2,12 +2,17 @@
 
 Configurações pessoal para o shell "ZSH" com tema customizado para o **Oh My Zsh**.
 
-# Plugins recomendado
-  - git
-  - zsh-autosuggestions
-  - zsh-syntax-highlighting
+---
 
-## Pre visualização do prompt
+## 🔌 Plugins recomendados
+
+- `git`
+- `zsh-autosuggestions`
+- `zsh-syntax-highlighting`
+
+---
+
+## 🖼️ Pre visualização do prompt
 
 ```bash
 🚀 user@host │   ~/seu/diretorio │  nome-da-branch │
